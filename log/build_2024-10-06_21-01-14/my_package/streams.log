@@ -1,0 +1,29 @@
+[0.526s] Invoking command in '/home/lancepharand11/webots_GtG/src/my_package': PYTHONPATH=/home/lancepharand11/webots_GtG/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/lancepharand11/webots_GtG/build/my_package/build install --record /home/lancepharand11/webots_GtG/build/my_package/install.log --single-version-externally-managed install_data
+[0.737s] running egg_info
+[0.738s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[0.738s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[0.738s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[0.738s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[0.738s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[0.739s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.740s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.740s] running build
+[0.740s] running build_py
+[0.740s] copying my_package/webots_odom.py -> /home/lancepharand11/webots_GtG/build/my_package/build/lib/my_package
+[0.740s] copying my_package/my_robot_driver.py -> /home/lancepharand11/webots_GtG/build/my_package/build/lib/my_package
+[0.740s] running install
+[0.741s] running install_lib
+[0.741s] copying /home/lancepharand11/webots_GtG/build/my_package/build/lib/my_package/webots_odom.py -> /home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages/my_package
+[0.741s] copying /home/lancepharand11/webots_GtG/build/my_package/build/lib/my_package/my_robot_driver.py -> /home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages/my_package
+[0.742s] byte-compiling /home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages/my_package/webots_odom.py to webots_odom.cpython-310.pyc
+[0.743s] byte-compiling /home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages/my_package/my_robot_driver.py to my_robot_driver.cpython-310.pyc
+[0.743s] running install_data
+[0.743s] running install_egg_info
+[0.744s] removing '/home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.745s] Copying ../../build/my_package/my_package.egg-info to /home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[0.746s] running install_scripts
+[0.760s] Installing my_robot_control script to /home/lancepharand11/webots_GtG/install/my_package/lib/my_package
+[0.761s] Installing my_robot_driver script to /home/lancepharand11/webots_GtG/install/my_package/lib/my_package
+[0.761s] Installing webots_odom script to /home/lancepharand11/webots_GtG/install/my_package/lib/my_package
+[0.761s] writing list of installed files to '/home/lancepharand11/webots_GtG/build/my_package/install.log'
+[0.778s] Invoked command in '/home/lancepharand11/webots_GtG/src/my_package' returned '0': PYTHONPATH=/home/lancepharand11/webots_GtG/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lancepharand11/webots_GtG/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/lancepharand11/webots_GtG/build/my_package/build install --record /home/lancepharand11/webots_GtG/build/my_package/install.log --single-version-externally-managed install_data
